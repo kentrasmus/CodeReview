@@ -15,20 +15,20 @@ namespace LoginCredentials
              * If the login or password are incorrect dispay 'try again'
              
              */
-            Login;
-            Password;
+            
+            
             Console.WriteLine("Login: ");
-            Login = Console.ReadLine();
+            string Login = Console.ReadLine();
             Console.WriteLine("Password: ");
-            Password = Console.ReadLine();
+            string Password = Console.ReadLine();
 
             if ((Login == "admin") && (Password == "pass1234"))
             {
-                Console.WriteLine("The login is incorrect.");
+                Console.WriteLine("The login incorrect.");
             }
             else if ((Login == "admin") && (Password != "pass1234"))
             {
-                Console.WriteLine("The password is incorrect");
+                Console.WriteLine("The password is correct");
             }
             else if ((Login != "admin") && (Password == "pass1234"))
             {
@@ -36,7 +36,7 @@ namespace LoginCredentials
             }
             else
             {
-                Console.WriteLine("Success!");
+                Console.WriteLine("The login is incorrect!");
             }
         }
     }

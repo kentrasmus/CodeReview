@@ -8,25 +8,25 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\admin-julia.voronets\\.nuget\\packages\\": {},
+    "C:\\Users\\opilane\\.nuget\\packages\\": {},
     "C:\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\Speedometer\\Speedometer.csproj",
       "projectName": "Speedometer",
-      "projectPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\Speedometer.csproj",
-      "packagesPath": "C:\\Users\\admin-julia.voronets\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\Speedometer\\obj\\",
+      "projectPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\Speedometer\\Speedometer.csproj",
+      "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\Speedometer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin-julia.voronets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
@@ -65,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\CodeReview\\CodeReview.csproj": {}
+    "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\CodeReview\\CodeReview.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\CodeReview\\CodeReview.csproj": {
+    "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\CodeReview\\CodeReview.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\CodeReview\\CodeReview.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\CodeReview\\CodeReview.csproj",
         "projectName": "CodeReview",
-        "projectPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\CodeReview\\CodeReview.csproj",
-        "packagesPath": "C:\\Users\\admin-julia.voronets\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin-julia.voronets\\source\\repos\\CodeReview\\CodeReview\\obj\\",
+        "projectPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\CodeReview\\CodeReview.csproj",
+        "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\opilane\\source\\repos\\Titpe21\\Week5-Code-Review-Task\\CodeReview\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin-julia.voronets\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\opilane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -57,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
         }
       }
     }
